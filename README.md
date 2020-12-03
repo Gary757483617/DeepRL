@@ -2,7 +2,7 @@
 #### CS285 Berkeley Cource
 
 All the finished homework as well as notes have been uploaded. The code was writen in **Pytorch**.
-
+You can directly run the code through ```.ipynb``` file in JupyterLab.
 
 
 - Initial github link:
