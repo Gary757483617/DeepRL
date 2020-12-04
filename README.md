@@ -1,5 +1,5 @@
 # DeepRL
-#### CS285 Berkeley Cource
+#### CS285 Berkeley Course
 
 All the finished homework as well as notes have been uploaded. The code was writen in **Pytorch**.
 You can directly run the code through ```.ipynb``` file in JupyterLab.
